@@ -53,3 +53,4 @@ Release/
 .vs/
 *.vcxproj
 *.vcxproj.filters
+*.sln
